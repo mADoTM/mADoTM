@@ -7,7 +7,7 @@ I've ended some programming courses:
 - SberBank: Virtual Trainee Java
 ---
 My Education:
-- Voronezh State University. <b><a href="cs.vsu.ru">Computer Science Faculty</a></b> <i>3 course</i>
+- Voronezh State University. <b><a href="https://cs.vsu.ru">Computer Science Faculty</a></b> <i>3 course</i>
 ---
 Contacts:
 
