@@ -1,6 +1,6 @@
 ### Hi! My name is Maxim Dolzhenko 👋
 ---
-I'm Junior Java Backend Developer. 
+I'm Middle Backend Developer. 
 
 I've ended some programming courses:
 - <a href="https://gamesphere.ru/curriculum/certificates/download/4717/904e1c78-3af5-4486-b8cc-ecfaec4df92b/">VK-Education</a>
