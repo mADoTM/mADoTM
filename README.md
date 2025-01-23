@@ -7,7 +7,7 @@ I've ended some programming courses:
 - SberBank: Virtual Trainee Java
 ---
 My Education:
-- Voronezh State University. <b><a href="https://cs.vsu.ru">Computer Science Faculty</a></b> 3/4 course <i>Software Engineer</i>
+- Voronezh State University. <b><a href="https://cs.vsu.ru">Computer Science Faculty</a></b> 4/4 course <i>Software Engineer</i>
 ---
 Contacts:
 
@@ -17,4 +17,4 @@ Contacts:
 ---
 Technologies:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" style="width:40px; height:40px;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" style="width:40px; height:40px;"/>
